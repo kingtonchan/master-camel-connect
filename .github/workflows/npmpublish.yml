@@ -7,7 +7,7 @@
 #
 #   push:
 #     branches:
-#       - develop
+#       - king-dev
 #
 # jobs:
 #   build:
